@@ -25,6 +25,7 @@ d.j@gmail.com
 
 ---------
 
+
 # Instalacao do neovim
 
 <p Style="text-align: justify;">Para instalação, já começamos com um problema. O Neovim que instalamos pelo apt do Debian é desatualizado. Então, segui a alternativa de instalar pelo Snap, que era bem mais atualizado. No entanto, ele tinha alguns problemas com permissões de arquivo.</p>

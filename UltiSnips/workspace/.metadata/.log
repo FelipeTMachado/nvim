@@ -1,0 +1,942 @@
+!SESSION 2023-11-14 19:24:05.257 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.697
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.791
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.808
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.808
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.814
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.814
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.816
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.817
+!MESSAGE Wait for AutoBuildOffJob end 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.817
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.817
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.817
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.817
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.824
+!MESSAGE Started org.eclipse.buildship.core 7ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.835
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.843
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.871
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:05.878
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.123
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.144
+!MESSAGE Workspace initialized in 309ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.171
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.173
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.189
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.315
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.323
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:24:06.324
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:42.693
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:42.698
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:42.710
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:42.713
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 19:26:44.566 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.077
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.166
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.181
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.181
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.185
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.186
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.187
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.188
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.188
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.188
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.194
+!MESSAGE Started org.eclipse.buildship.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.204
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.214
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.437
+!MESSAGE Workspace initialized in 232ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.448
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.450
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.461
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.521
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.527
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:26:45.527
+!MESSAGE >> watchers registered
+!SESSION 2023-11-14 19:42:40.453 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-11-14 19:42:40.746
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:40.904
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:40.998
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.013
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.013
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.018
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.018
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.020
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.020
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.031
+!MESSAGE ProjectRegistryRefreshJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.031
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.038
+!MESSAGE Started org.eclipse.buildship.core 7ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.049
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.056
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.283
+!MESSAGE Workspace initialized in 234ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.307
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.309
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.318
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.380
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.389
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:41.389
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:45.280
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:45.285
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:45.304
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:42:45.309
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:38.428
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:38.434
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:38.443
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:38.448
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 19:45:42.295 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.767
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.861
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.875
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.876
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.881
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.881
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.883
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.883
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.884
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.884
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.891
+!MESSAGE Started org.eclipse.buildship.core 7ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.902
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:42.909
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.149
+!MESSAGE Workspace initialized in 247ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.163
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.165
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.174
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.236
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.248
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:45:43.248
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:19.347
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:19.368
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:19.384
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:19.387
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 19:46:20.648 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.128
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.216
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.231
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.231
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.235
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.236
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.237
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.238
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.238
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.238
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.244
+!MESSAGE Started org.eclipse.buildship.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.254
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.283
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.527
+!MESSAGE Workspace initialized in 272ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.542
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.543
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.551
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.615
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.627
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:21.627
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:57.035
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:57.041
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:57.053
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:57.056
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 19:46:58.485 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:58.985
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.079
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.093
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.094
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.099
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.099
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.101
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.101
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.102
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.102
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.108
+!MESSAGE Started org.eclipse.buildship.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.119
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.126
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.366
+!MESSAGE Workspace initialized in 247ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.385
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.387
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.399
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.458
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.472
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 19:46:59.472
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:16.524
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:16.530
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:16.538
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:16.541
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 20:02:41.366 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.813
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.905
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.920
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.920
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.925
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.925
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.927
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.927
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.927
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.927
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.933
+!MESSAGE Started org.eclipse.buildship.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.944
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:41.951
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.178
+!MESSAGE Workspace initialized in 233ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.197
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.198
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.207
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.269
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.277
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:02:42.277
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:17.842
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:17.847
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:17.861
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:17.865
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 20:04:19.303 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.755
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.842
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.856
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.857
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.861
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.861
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.863
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.864
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.864
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.864
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.870
+!MESSAGE Started org.eclipse.buildship.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.880
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:19.941
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.117
+!MESSAGE Workspace initialized in 236ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.133
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.135
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.145
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.206
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.214
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:04:20.214
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:33.978
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:33.984
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:33.993
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:33.999
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 20:22:35.976 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.664
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.785
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.808
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.809
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.815
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.815
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.818
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.818
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.819
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.819
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.829
+!MESSAGE Started org.eclipse.buildship.core 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.840
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:36.852
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.300
+!MESSAGE Workspace initialized in 459ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.325
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.327
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.343
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.420
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.427
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:22:37.428
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:13.796
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:13.801
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:13.814
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:13.819
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 20:40:15.328 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.017
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.138
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.158
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.158
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.164
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.164
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.167
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.167
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.168
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.168
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.176
+!MESSAGE Started org.eclipse.buildship.core 8ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.187
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.200
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.618
+!MESSAGE Workspace initialized in 429ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.650
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.653
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.670
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.746
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.754
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:40:16.754
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:43:26.442
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:43:26.448
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:43:26.467
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:43:26.471
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 20:45:12.119 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.843
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.966
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.987
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.988
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.993
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.993
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.996
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.996
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.997
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:12.997
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.006
+!MESSAGE Started org.eclipse.buildship.core 9ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.017
+!MESSAGE LoadingGradleVersionJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.029
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.390
+!MESSAGE Workspace initialized in 372ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.413
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.415
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.435
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.519
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.528
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:45:13.529
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:59:59.015
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:59:59.020
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:59:59.032
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 20:59:59.037
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2023-11-14 21:02:16.497 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.200
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.320
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.342
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.343
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.348
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.349
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.351
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.351
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.352
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.352
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.361
+!MESSAGE Started org.eclipse.buildship.core 9ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.372
+!MESSAGE LoadingGradleVersionJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.383
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.783
+!MESSAGE Workspace initialized in 410ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.812
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.814
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.830
+!MESSAGE >> New configuration: {java=[]}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.907
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.917
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:02:17.917
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:15:39.069
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:15:39.073
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:15:39.086
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-14 21:15:39.091
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

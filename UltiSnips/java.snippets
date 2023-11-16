@@ -1,0 +1,64 @@
+snippet main "main" b
+public static void main(String[] args) {
+	${1:System.out.println("")};	
+}
+endsnippet
+
+snippet wow
+${1:Text}`!p snip.rv = (75-2*len(t[1]))*' '+t[1.upper()`
+endsnippet
+
+snippet classmain
+class $1 {
+	main$2
+}
+endsnippet
+
+
+snippet class
+class $1 {
+	$2
+	// CONSTRUTOR
+	public $1 (){
+		
+	}
+}
+endsnippet
+
+
+snippet atri
+private ${1:Type} ${2:atribute} = ${3: value};
+atri${4}
+
+public $1 get${2/\w+\s*/\u$0/}(){
+	return this.$2;
+}
+public set${2/\w+\s*/\u$0/}($1 pr${2/\w+\s*/\u$0/}) {
+	this.$2 = pr${2/\w+\s*/\u$0/};
+}
+endsnippet
+
+
+snippet print
+System.out.print($1);				
+endsnippet
+
+
+snippet printl
+System.out.println($1);
+endsnippet
+
+
+snippet printf
+System.out.printf("%$1", ($2));
+endsnippet
+
+snippet tostr
+@Override
+public String toString() {
+	return "${1}"
+}
+endsnippet
+
+
+

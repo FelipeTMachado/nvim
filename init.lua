@@ -5,4 +5,5 @@ print('Configurando nvim...')
 require 'config.config'
 require 'config.packer'
 require 'config.remap'
+require 'mason-config'
 
