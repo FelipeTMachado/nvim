@@ -1,6 +1,33 @@
+snippet beecrowd "Classe padrao para estudo" -b
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args){	
+		Scanner leitura = new Scanner(System.in);
+
+		${1}
+
+		leitura.close();
+	}
+}
+endsnippet
+
+
 snippet main "main" b
 public static void main(String[] args) {
 	${1:System.out.println("")};	
+}
+endsnippet
+
+snippet mets
+${1} ${2} ${3}(){
+	${4}
+}
+endsnippet
+
+snippet meta
+${1} ${2} ${3:Type} ${4:name}() {
+	${5}
 }
 endsnippet
 
@@ -33,7 +60,7 @@ atri${4}
 public $1 get${2/\w+\s*/\u$0/}(){
 	return this.$2;
 }
-public set${2/\w+\s*/\u$0/}($1 pr${2/\w+\s*/\u$0/}) {
+public void set${2/\w+\s*/\u$0/}($1 pr${2/\w+\s*/\u$0/}) {
 	this.$2 = pr${2/\w+\s*/\u$0/};
 }
 endsnippet
