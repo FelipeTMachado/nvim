@@ -179,6 +179,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/desenv/.local/share/nvim/site/pack/packer/start/ultisnips",
     url = "https://github.com/SirVer/ultisnips"
+  },
+  vimspector = {
+    loaded = true,
+    path = "/home/desenv/.local/share/nvim/site/pack/packer/start/vimspector",
+    url = "https://github.com/puremourning/vimspector"
   }
 }
 

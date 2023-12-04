@@ -3,15 +3,23 @@ local lsp = require('lsp-zero')
 lsp.preset('recommended')
 lsp.setup()
 
-require'lspconfig'.pyright.setup{}
-require'lspconfig'.jdtls.setup{} 
-require'lspconfig'.lua_ls.setup{}
-require'lspconfig'.ltex.setup{}
-require'lspconfig'.marksman.setup{}
-require'lspconfig'.jsonls.setup{}
-require'lspconfig'.asm_lsp.setup{}
-require'lspconfig'.bashls.setup{}
-require'lspconfig'.vimls.setup{}
+local lspc = require'lspconfig'
+
+lspc.pyright.setup{}
+
+lspc.jdtls.setup{}
+
+vim.api.nvim_set_keymap('n', '<leader>dd', [[:lua require('dap').continue()<CR>]], { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', '<leader>dc', [[:lua require('dap').disconnect(); require('dap').close()<CR>]], { noremap = true, silent = true })
+
+lspc.lua_ls.setup{}
+lspc.ltex.setup{}
+lspc.marksman.setup{}
+lspc.jsonls.setup{}
+lspc.asm_lsp.setup{}
+lspc.bashls.setup{}
+lspc.vimls.setup{}
+lspc.sqlls.setup{}
 
 -- CONFIGURANDO MAPPINGS DO CODECOMPLETE
 local cmp = require('cmp')

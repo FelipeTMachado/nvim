@@ -18,3 +18,5 @@ map("n", "<leader>ss", comando.split)
 map("n", "<leader>sv", comando.vsplit)
 map("n", "<leader>mm", comando.Mason)
 
+vim.api.nvim_set_keymap('n', '<leader>r', [[:!java %<CR>]], { noremap = true, silent = true })
+
