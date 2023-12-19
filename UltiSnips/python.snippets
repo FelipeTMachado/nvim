@@ -1,0 +1,13 @@
+snippet main "main" b
+if __name__ == "__main__":
+	${0}
+endsnippet
+
+snippet getset "getset" b 
+def set${1:nameAtribute}(self, pr$1):
+	self.${2:atribute} = pr$1
+def get$1(self):
+	return self.$2
+
+${3}
+endsnippet

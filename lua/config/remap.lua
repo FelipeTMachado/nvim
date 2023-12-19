@@ -1,6 +1,5 @@
 print("Configurando mappings personalizados...")
 
-
 local vi = vim.g
 
 vi.mapleader = " "
@@ -19,4 +18,5 @@ map("n", "<leader>sv", comando.vsplit)
 map("n", "<leader>mm", comando.Mason)
 
 vim.api.nvim_set_keymap('n', '<leader>r', [[:!java %<CR>]], { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', '<leader>p', [[:!python %<CR>]], { noremap = true, silent = true })
 
