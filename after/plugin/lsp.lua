@@ -11,6 +11,7 @@ lspc.jdtls.setup{}
 
 vim.api.nvim_set_keymap('n', '<leader>dd', [[:lua require('dap').continue()<CR>]], { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<leader>dc', [[:lua require('dap').disconnect(); require('dap').close()<CR>]], { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', '<leader>oo', [[:lus require('jdtls').organize_imports()<CR>]], { noremap = true, silent = true })
 
 lspc.lua_ls.setup{}
 lspc.ltex.setup{}
